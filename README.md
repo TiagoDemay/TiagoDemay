@@ -8,7 +8,7 @@
 <h3> ⚙️ GitHub Analytics </h3>
   
 <a href="https://github.com/TiagoDemay">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviReisVieira&theme=react&show_icons=true" style"max-width: 100%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoDemay&theme=react&show_icons=true" style"max-width: 100%;" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoDemay&theme=react&layout=compact" style"max-width: 100%;" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoDemay&theme=react" style"max-width: 100%;" />
 </a>
